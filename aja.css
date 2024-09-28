@@ -56,12 +56,12 @@ button#no {
     position: relative;
 }
 
-button#no:hover {
+/* //button#no:hover {
     position: absolute;
     top: calc(50% - 10px);
     left: calc(50% - 10px);
     transform: translate(-50%, -50%);
-}
+} */
 
 #message {
     color: #ff1493;
